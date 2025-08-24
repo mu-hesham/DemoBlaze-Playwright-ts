@@ -1,0 +1,23 @@
+{
+  "name": "demoblaze-playwright-ts",
+  "version": "1.0.0",
+  "description": "Playwright automation project for Demoblaze using TypeScript and POM.",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
