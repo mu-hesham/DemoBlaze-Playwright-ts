@@ -11,7 +11,8 @@ This project automates the Demoblaze website using **Playwright + TypeScript** a
 ## Setup and installation
 1. download and install nodejs through URL: https://nodejs.org/en/download
 2. download and install Visual Studio Code through URL: https://code.visualstudio.com/download
-3. Open Visual Studio Code then from File menu >> Open the project Folder or just drag and drop the project folder inside Visual Studio Code
+3. From the project repo click on button “<> Code” then select “Download ZIP”
+4. Open Visual Studio Code then from File menu >> Open the project Folder or just drag and drop the project folder inside Visual Studio Code
 
 # NOTE #
 screenshots and videos are saved in `test-results/`.
